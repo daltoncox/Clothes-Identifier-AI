@@ -1,7 +1,7 @@
 # AI Clothes Identifier Trainer and Visualiser
 This repository features PyTorches basic AI training tutorial with a web interface to visualize the models capabilities. 
 ## Requirements
-To train the model you will need to have the python torch module installed. In order to use the Prediction Visualizer, you will also need the streamlit module. I recommend using a virtual environment. Once you're ready to download the requirements, run:
+To train the model you will need to have the python torch and torchvision modules installed. In order to use the Prediction Visualizer, you will also need the streamlit module. I recommend using a virtual environment. Once you're ready to download the requirements, run:
 ```bash
 pip install -r requirements.txt
 ```
